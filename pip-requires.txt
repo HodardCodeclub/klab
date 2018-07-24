@@ -16,5 +16,5 @@ Markdown
 raven
 nose
 mysqlclient
-django-celery
+celery
 requests
